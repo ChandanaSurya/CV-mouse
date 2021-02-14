@@ -1,0 +1,2 @@
+# CV-mouse
+ To design virtual mouse which detects  hand gestures patterns instead of physical mouse. Basically we use colored tips for detection which are captured by webcam Here, the colored fingertip acts as an object  which the web cam senses The camera is positioned such that it recognizes the  moment of finger tips and performs the operations of mouse The application has been designed to be cost effective and uses low cost input tools like webcam for capturing hand as input.
